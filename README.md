@@ -9,5 +9,6 @@
 
 ## Running
 Run the software using the command:
-    go run sshbrute.go
+`go run sshbrute.go`
+
 Successfully logged in SSH servers will be saved to the results.txt folder.
